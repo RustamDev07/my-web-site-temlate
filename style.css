@@ -1,0 +1,68 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.website{
+	width: 100%;
+	background-color: #ff5f3b;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10%;
+	color: white;
+	font-family: sans-serif;
+}
+.box1 ul li{
+	margin-left: 20px;
+	list-style: none;
+	display: inline;
+}
+.box1{
+	background-color: #252626;
+	font-family: sans-serif;
+	padding: 13px 8.5%;
+}
+.box1 ul li a{
+	color: white;
+	text-decoration: none;
+}
+.box2{
+	width: 100%;
+	min-height: 250px;
+	text-align: center;
+	background-image: url(sayt2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-family: sans-serif;
+	padding: 0 25%;
+	padding-top: 80px;
+}
+.box{
+	display: flex;
+	margin: 20px 10% 0px 10%;
+}
+.box4{
+	width: 30%;
+	background-color: #252626;
+	color: white;
+	font-family: sans-serif;
+	padding: 10px 5px;
+}
+.box3{
+	width: 75%;
+	padding: 0px 10px;
+	font-family: sans-serif;
+}
+.box3 p{
+	padding-top: 15px;
+}
+.box5{
+	margin-top: 50px;
+	width: 100%;
+	min-height: 50px;
+	text-align: center;
+	background-color: #252626;
+	padding-top: 15px;
+	color: white;
+}
